@@ -116,3 +116,39 @@ Read port: 51174
 1658775119221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofileLoyVFv\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:51167/devtools/browser/ccc074d7-a5a6-46b2-bf3f-1f28afacbac0
+1658799130089	geckodriver	INFO	Listening on 127.0.0.1:62300
+1658799130577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofilekT7Ons"
+1658799131037	Marionette	INFO	Marionette enabled
+1658799131043	Marionette	INFO	Listening on port 62308
+WebDriver BiDi listening on ws://localhost:62301
+Read port: 62308
+1658799131208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofilekT7Ons\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62301/devtools/browser/9cdbc274-28c3-486c-9941-713806a1f0f1
+1658799563235	geckodriver	INFO	Listening on 127.0.0.1:62368
+1658799563708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofileMLUsib"
+1658799563965	Marionette	INFO	Marionette enabled
+1658799563970	Marionette	INFO	Listening on port 62376
+WebDriver BiDi listening on ws://localhost:62369
+Read port: 62376
+1658799564119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofileMLUsib\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62369/devtools/browser/abf63c8d-5cde-424f-a529-9f32af809a98
+1658799977481	geckodriver	INFO	Listening on 127.0.0.1:62429
+1658799977973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62430" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofileka9igr"
+1658799978250	Marionette	INFO	Marionette enabled
+1658799978253	Marionette	INFO	Listening on port 62437
+WebDriver BiDi listening on ws://localhost:62430
+Read port: 62437
+1658799978398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofileka9igr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62430/devtools/browser/b68f4177-de41-48ec-b1b4-bae9a65f61d6
+1658800103270	geckodriver	INFO	Listening on 127.0.0.1:62472
+1658800103750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofileTIXKZd"
+1658800104100	Marionette	INFO	Marionette enabled
+1658800104105	Marionette	INFO	Listening on port 62480
+WebDriver BiDi listening on ws://localhost:62473
+Read port: 62480
+1658800104343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YURI~1.SOU\\AppData\\Local\\Temp\\rust_mozprofileTIXKZd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62473/devtools/browser/a9b1209d-2148-4dd7-84d7-8e20b31bc87d
